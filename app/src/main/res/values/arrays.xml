@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>선인장</item>
+        <item>장미</item>
+        <item>난</item>
+    </string-array>
+
+</resources>
